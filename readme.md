@@ -1,3 +1,3 @@
-# API REST com node HTTP e SQLite3
+# REST API with HTTP node and SQLite3
 
-Esta API foi criada com o intuioto de explicar como se comporta uma API Rest, seues métodos e peculiaridades
+This API was created intuoto to explain how a Rest API behaves, its methods and peculiarities
