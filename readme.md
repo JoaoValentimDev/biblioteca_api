@@ -7,7 +7,7 @@ This API was created intuoto to explain how a Rest API behaves, its methods and 
 ```sh 
 npm i
 ```
-ou
+or
 
 ```sh 
 yarn add
